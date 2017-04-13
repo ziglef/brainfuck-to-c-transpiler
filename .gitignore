@@ -272,3 +272,6 @@ ENV/
 
 # End of https://www.gitignore.io/api/c,clion,python,pycharm,jetbrains
 
+# .idea folder
+.idea/
+
